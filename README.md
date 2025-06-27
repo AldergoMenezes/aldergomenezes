@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Sou Aldergo Menezes</h1>
+<h1 align="center">Aldergo Menezes</h1>
 
 <p align="center">
 📦 Gerente de E-commerce | 🎯 Foco em Performance, Processos e Projetos | 💻 Apaixonado por Dados e Automação
